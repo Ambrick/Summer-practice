@@ -56,101 +56,25 @@ void MainWindow::on_pushButton_clicked()
        }
        file.close();
 }
-
-void MainWindow::on_pushButton_2_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_3_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_4_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_5_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_6_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_7_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_8_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_9_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_10_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_11_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_12_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_13_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_14_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_15_clicked()
-{
-
-}
-
-void MainWindow::on_pushButton_16_clicked()
-{
-
-}
-
-void MainWindow::on_businessklassticket1_clicked()
-{
-
-}
-
-void MainWindow::on_businessklassticket2_clicked()
-{
-
-}
-
-void MainWindow::on_businessklassticket3_clicked()
-{
-
-}
-
-void MainWindow::on_businessklassticket4_clicked()
-{
-
-}
+void MainWindow::on_pushButton_2_clicked(){}
+void MainWindow::on_pushButton_3_clicked(){}
+void MainWindow::on_pushButton_4_clicked(){}
+void MainWindow::on_pushButton_5_clicked(){}
+void MainWindow::on_pushButton_6_clicked(){}
+void MainWindow::on_pushButton_7_clicked(){}
+void MainWindow::on_pushButton_8_clicked(){}
+void MainWindow::on_pushButton_9_clicked(){}
+void MainWindow::on_pushButton_10_clicked(){}
+void MainWindow::on_pushButton_11_clicked(){}
+void MainWindow::on_pushButton_12_clicked(){}
+void MainWindow::on_pushButton_13_clicked(){}
+void MainWindow::on_pushButton_14_clicked(){}
+void MainWindow::on_pushButton_15_clicked(){}
+void MainWindow::on_pushButton_16_clicked(){}
+void MainWindow::on_businessklassticket1_clicked(){}
+void MainWindow::on_businessklassticket2_clicked(){}
+void MainWindow::on_businessklassticket3_clicked(){}
+void MainWindow::on_businessklassticket4_clicked(){}
 
 void MainWindow::on_ticketdataok_clicked()
 {
@@ -329,7 +253,4 @@ void MainWindow::on_ticketdataok_clicked()
 
 }
 
-void MainWindow::on_dateTimeEdit_dateChanged(const QDate &date)
-{
-
-}
+void MainWindow::on_dateTimeEdit_dateChanged(const QDate &date){}
